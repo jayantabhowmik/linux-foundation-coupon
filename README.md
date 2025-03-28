@@ -188,4 +188,4 @@ The following are the best bundles to **save upto 50% (up to $818)** with code *
 
 This September, Linux Foundation promo is focused on sharpening your skillset for the new year ahead. For individual certifications, you will get flat 35% discount using the following coupon.
 
-**Coupon:** Use code **SEPTEMBER24CT** at [kube.promo/devops](https://kube.promo/devops)
+**Coupon:** Use code **SEPTEMBER24CT** at [kube.promo/devops](https://kube.promo/devops).
